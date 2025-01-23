@@ -9,12 +9,12 @@ application modules.
 
 Software development is still a young profession, and we are still figuring out the best ways to build systems, and that means
 the pendulum swings a bit back and forth on what the software community thinks is the best way to build large systems. We saw
-some poor results from the old monolithic applications of your as we got codebases with slow
+some poor results from the old monolithic applications of yore as we got codebases with slow
 build times that made our IDE tools sluggish and were generally just hard to maintain over time. 
 
-Enter micro-services as an attempt to build software in smaller chunks where you might be able to be mostly working on smaller
+Enter micro-services as an attempt to build software in smaller chunks where you might be able to work on smaller
 codebases with quicker builds, faster tests, and a much easier time upgrading technical infrastructure compared to monolithic applications. 
-Of course there were some massive downsides with the whole distributed development thing, and our industry has become disillusioned.
+Of course there were some massive downsides to the whole distributed development thing, and our industry has become disillusioned.
 
 ::: tip
 We still think that Wolverine (and Marten) with its relentless focus on low ceremony code and strong support for asynchronous
